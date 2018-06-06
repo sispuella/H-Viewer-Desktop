@@ -1,5 +1,3 @@
 # H-Viewer-Desktop
-# H-Viewer-Desktop
 
-
-# This is a desktop web image browser utilizing web crawler 
+This is a web image desktop browser utilizing web crawler 
